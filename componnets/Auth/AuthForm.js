@@ -1,4 +1,4 @@
-import { StyleSheet, KeyboardAvoidingView, ScrollView } from "react-native";
+import {  KeyboardAvoidingView, ScrollView } from "react-native";
 import React, { useState, useeff } from "react";
 import { useNavigation } from "@react-navigation/native";
 
@@ -111,4 +111,3 @@ const AuthForm = ({ isLogin, onSubmit }) => {
 
 export default AuthForm;
 
-const styles = StyleSheet.create({});
