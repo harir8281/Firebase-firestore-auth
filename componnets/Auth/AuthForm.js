@@ -1,5 +1,5 @@
 import {  KeyboardAvoidingView, ScrollView } from "react-native";
-import React, { useState, useeff } from "react";
+import React, { useState} from "react";
 import { useNavigation } from "@react-navigation/native";
 
 import InputComponent from "../Ui/InputComponent";
